@@ -1,0 +1,7 @@
+{
+  "name": "FEEDGUARD AI — Silage & Cattle Feed Triage Matrix",
+  "description": "Decentralized Feed Safety & Anaerobic Silage Triage Engine (SIH-26-AGRI-048) with 3-tier multi-modal inspection, edge computer vision, photometric pH colorimetry, and cooperative traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
